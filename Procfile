@@ -1,1 +1,1 @@
-web: gunicorn app:hawaiiFlask
+web: gunicorn app:app
